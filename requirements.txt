@@ -1,3 +1,4 @@
 plotly
 stockstats
 investpy
+TALib
