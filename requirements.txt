@@ -1,4 +1,4 @@
 plotly
 stockstats
 investpy
-TALib
+TA-Lib
