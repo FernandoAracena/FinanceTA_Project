@@ -122,5 +122,3 @@ data['EMA4'] = talib.EMA(data['Close'], timeperiod=4)
 data['EMA9'] = talib.EMA(data['Close'], timeperiod=9)
 data['EMA18'] = talib.EMA(data['Close'], timeperiod=18)
 st.line_chart(data[-65:][['EMA4', 'EMA9', 'EMA18']])
-</body>
-</html>
