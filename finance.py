@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 import numpy as np
 import pandas as pd
 import plotly.graph_objs as go
@@ -6,6 +8,12 @@ from stockstats import wrap
 import streamlit as st
 import investpy
 import talib
+
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+<body>
+    finance
 
 st.header("My Finance Recommendations App")
 # Convert datetime
@@ -121,3 +129,5 @@ data['EMA4'] = talib.EMA(data['Close'], timeperiod=4)
 data['EMA9'] = talib.EMA(data['Close'], timeperiod=9)
 data['EMA18'] = talib.EMA(data['Close'], timeperiod=18)
 st.line_chart(data[-65:][['EMA4', 'EMA9', 'EMA18']])
+</body>
+</html>
