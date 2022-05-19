@@ -1,4 +1,0 @@
-plotly
-stockstats
-investpy
-TA-Lib
