@@ -9,3 +9,7 @@ streamlit run finance.py
 *Watching list
 *Graphics
 
+
+
+https://user-images.githubusercontent.com/64535303/169289976-04e47909-c1d6-4e83-989c-5291b1dad413.mp4
+
