@@ -3,8 +3,9 @@
 FinanceTA 
 Simple financial App for norwegian stock market
 
+```bash
 streamlit run finance.py
-
+```
 *Top 10 per Volume*
 
 *Watching list*
