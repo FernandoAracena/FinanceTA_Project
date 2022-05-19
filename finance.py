@@ -7,7 +7,7 @@ import streamlit as st
 import investpy
 import talib
 
-st.header("My Finance Recommendations App")
+st.header("FinanceTA App")
 # Convert datetime
 # datetime.datetime.utcnow()-datetime.timedelta(days=252)
 
